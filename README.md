@@ -1,2 +1,2 @@
 # Hello-World
-This is a 101 turotial of Github. 
+This is the current 101 turotial of Github. 
