@@ -1,1 +1,2 @@
 Hello, world!
+And this is a brand new line!
